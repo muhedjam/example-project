@@ -18,3 +18,5 @@ will follow
 
 ## License
 will follow
+
+The content of this site is licensed under the MIT License
