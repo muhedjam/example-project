@@ -1,1 +1,7 @@
+%% .gitignore
+<<<<<<< HEAD
 data/
+/politeness_data.py
+=======
+
+>>>>>>> consider-data
