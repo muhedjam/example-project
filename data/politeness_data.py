@@ -1,4 +1,4 @@
-target_path = "data/"
+target_path = "datao/"
 import requests
 import os
 import pathlib
@@ -182,5 +182,31 @@ df, df_sum = pol_data.data_preprocessed(data_file)
 # plot data 
 pol_data.plot_data(df)
 
- 
+
+class DownloadData:
+    def __init__(self):
+        # Implement the initialization for DownloadData
+        pass
+    
+    def set_working_directory(self):
+        # Add code to set the working directory
+        pass
+    
+    def download_dataset(self):
+        # Add code to download the dataset
+        pass
+    
+    
+class PolitenessData:
+    def __init__(self):
+        # Implement the initialization for PolitenessData
+        pass
+    
+    def preprocess_data(self):
+        # Add code to preprocess the data
+        pass
+    
+    def plot_data(self):
+        # Add code to plot the data
+        pass
 
